@@ -1,6 +1,8 @@
 #String Concatination
-a = "Welcome"
-b = "to"
-c = "World" 
-print(a + b + c)
+a = "We"
+b = " Welcome"
+c = " You" 
+d = " To"
+e = " Bath Spa University RAK Campus."
+print(a + b + c + d + e)
 

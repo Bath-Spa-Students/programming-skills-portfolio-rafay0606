@@ -1,4 +1,4 @@
-#Print the Version Of Python
+# Displaying the Version Of Python
 import sys
 print("Python version")
 print(sys.version)

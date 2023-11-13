@@ -9,7 +9,7 @@ print(message)
 # Changing the message of the variable  
 message = "It is one of the best university in UAE"
 
-# Printing the message 
+# Displaying the message 
 print(message)
 
 
